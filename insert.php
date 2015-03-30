@@ -1,9 +1,10 @@
 <?php
-
+$new;
 $NoOfDays=$_POST['day'];
 $NoOfSubj=$_POST['subj'];
 $BreakTime=$_POST['break'];
 $NoOfBatch=$_POST['batch'];
+
 
 echo $NoOfDays;
 echo $NoOfSubj;
