@@ -12,4 +12,5 @@ else
   {
   	echo "Error deleting values: " . mysqli_error($con);
   }
+
 ?>
