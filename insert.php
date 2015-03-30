@@ -18,5 +18,6 @@ for($i=1;$i<=$_POST["subj"];$i++)
 	echo $Subj[$i];
 	echo $Lect[$i];
 	echo $Prac[$i];
+
 }
 ?>
