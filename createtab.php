@@ -1,6 +1,7 @@
 <?php
 include("database.php");
 
+
 // Create table
 $sql="CREATE TABLE TTM(ID INT NOT NULL AUTO_INCREMENT,PRIMARY KEY(ID),
 Cols INT,
